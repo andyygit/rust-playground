@@ -1,4 +1,5 @@
-`cargo new`  
+`cargo new hello_cargo` - new cargo project
+`cargo new --vcs=none hello_cargo` - new cargo project with no version control (`cargo new --help`)
 `cargo build`  
 `cargo run`  
 `cargo check`  
